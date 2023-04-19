@@ -7,7 +7,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
+- [Manual installation](#manual-installation)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -29,8 +29,15 @@ Users should be able to:
 
 - Live Site URL: [Open](https://data-rockets-test-task.vercel.app/)
 
-## My process
+## Manual installation
 
+- with pnpm ```
+
+  pnpm i
+  pnpm dev
+
+```
+- visit [preview](http:localhost:5173)
 ### Built with
 
 - Semantic HTML5 markup
@@ -45,3 +52,4 @@ Users should be able to:
 - Bekhruz Bakhodirov - [Github profile](https://github.com/dontmeway)
 - bbakhadyrov@gmail.com
 - Telegram - [@dontmeway](dontmeway.t.me)
+```
