@@ -1,6 +1,6 @@
-# Frontend Mentor - Tip calculator app solution
+# Test task for datarockets
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://data-rockets-test-task.vercel.app/)
+- Live Site URL: [Open](https://data-rockets-test-task.vercel.app/)
 
 ## My process
 
@@ -39,10 +39,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-<h1>Some HTML code I'm proud of</h1>
 
-```
 ## Author
 
-- Bekhruz Bakhodirov - [@dontmeway](https://github.com/dontmeway)
-```
+- Bekhruz Bakhodirov - [Github profile](https://github.com/dontmeway)
+- bbakhadyrov@gmail.com
+- Telegram - [@dontmeway](dontmeway.t.me)
