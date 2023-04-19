@@ -31,12 +31,11 @@ Users should be able to:
 
 ## Manual installation
 
-- with pnpm ```
-
-  pnpm i
-  pnpm dev
-
-```
+- with pnpm 
+``` 
+    pnpm i
+    pnpm dev
+``` 
 - visit [preview](http:localhost:5173)
 ### Built with
 
@@ -52,4 +51,4 @@ Users should be able to:
 - Bekhruz Bakhodirov - [Github profile](https://github.com/dontmeway)
 - bbakhadyrov@gmail.com
 - Telegram - [@dontmeway](dontmeway.t.me)
-```
+
