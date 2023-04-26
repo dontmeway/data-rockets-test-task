@@ -37,12 +37,14 @@ type CustomTipButtonProps = {
 
 export const CustomTipButton = ({ onChange, value }: CustomTipButtonProps) => {
   const [isFocused, setFocus] = useState(false)
+  const hasValue = value !== null
+  const showInput = hasValue || isFocused
 
   const handleClick = useCallback(() => {
     setFocus(true)
   }, [])
 
-  if (isFocused) {
+  if (showInput) {
     return (
       <input
         autoFocus
