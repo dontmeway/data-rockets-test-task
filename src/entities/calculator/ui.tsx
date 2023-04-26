@@ -33,11 +33,15 @@ export const TipButton = ({
 type CustomTipButtonProps = {
   onChange: (ev: React.ChangeEvent<HTMLInputElement>) => void
   value: string
+  hasValue: boolean
 }
 
-export const CustomTipButton = ({ onChange, value }: CustomTipButtonProps) => {
+export const CustomTipButton = ({
+  onChange,
+  value,
+  hasValue,
+}: CustomTipButtonProps) => {
   const [isFocused, setFocus] = useState(false)
-  const hasValue = value !== null
   const showInput = hasValue || isFocused
 
   const handleClick = useCallback(() => {

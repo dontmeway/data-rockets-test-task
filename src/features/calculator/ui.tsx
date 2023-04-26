@@ -105,6 +105,7 @@ const TipsList = () => {
         ))}
 
         <CustomTipButton
+          hasValue={customTip !== null}
           value={customTip?.toString() ?? ''}
           onChange={model.handleInputChange((value) =>
             dispatch({ type: 'custom-tip', payload: value })
